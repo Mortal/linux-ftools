@@ -1,3 +1,12 @@
+linux-ftools (1.3.0) stable; urgency=high
+  * added linux-prefix to everything
+
+linux-ftools (1.2.0) stable; urgency=high
+  * added linux-prefix
+
+linux-ftools (1.1.0) stable; urgency=high
+  * Fixed a number of bugs and package is now stable
+
 linux-ftools (1.0.0) unstable; urgency=low
 
   * Initial Release.
